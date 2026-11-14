@@ -1,7 +1,7 @@
 # app-dev
 My first repository
 
-# H1
+# Foods
 **My Favorite Foods**
 1. Adobo
 2. Kare-Kare
